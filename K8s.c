@@ -66,7 +66,7 @@ static int send_json_post(CURL *curl, const char *url, const char *user, const c
 int main(void) {
     const char *api = "https://127.0.0.1:6443";
     const char *user = "jjcorr-user";
-    const char *pw = "Password12345";
+    const char *passwd = "asje4393s_kd";
     const char *app =  "demo-app";
     const char *image =  "nginx:latest";
     const char *ns =  "default";
